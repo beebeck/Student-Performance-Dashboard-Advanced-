@@ -3,7 +3,7 @@ Why this?
 
 The intention to update the previously made dashboard is to implement the advance feature that Powerbi provides to its user. I have implemented the search slicer interms of department and Student so its easy to track the record through. Along with this, i have even implemented  CARD to reflect the rate of performance and data descriptions.
 
-![image](https://github.com/user-attachments/assets/59f1342c-dd41-4b48-8748-3cfeea59668a)
+![image](https://github.com/user-attachments/assets/c6d44070-7e78-4cb4-8ed1-32fe32ccd92d)
 
 Findings:
 - students have good result record
