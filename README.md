@@ -9,4 +9,4 @@ Findings:
 - students have good result record
 - which book has the long time usefulness
 - which year-month has the most payment made by the students
-- anvigation through the pages
+- navigation through the pages
